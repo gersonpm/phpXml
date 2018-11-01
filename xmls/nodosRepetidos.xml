@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+
+<nodo_padre>
+   <nodo_hijo>
+      <valor>valor1:Primer Nodo </valor>
+   </nodo_hijo>
+   <nodo_hijo>
+      <valor>valor1: Segundo Nodo </valor>
+      <valor>valor2: Segundo Nodo </valor>
+   </nodo_hijo>
+   <nodo_hijo>
+      <valor>valor1: Tercer Nodo </valor>
+      <valor>valor2: Tercer Nodo</valor>
+      <valor>valor3: Tercer Nodo</valor>
+   </nodo_hijo>
+   <nodo_hijo>
+      <valor>valor1: Cuarto Nodo </valor>
+      <valor>valor2: Cuarto Nodo </valor>
+      <valor>valor3: Cuarto Nodo </valor>
+      <valor>valor4: Cuarto Nodo </valor>
+   </nodo_hijo>
+</nodo_padre>
